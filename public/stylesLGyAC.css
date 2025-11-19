@@ -1472,7 +1472,7 @@ body {
 }
 
 .study-plan-table td {
-    text-align: center;
+    text-align: justify;
     font-size: 1.1rem;
     background-color: #fff;
 }
